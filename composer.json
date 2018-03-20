@@ -17,5 +17,11 @@
             "files": ["aliApiSdk/Sms.php"]
 
         }
-    }
+    },
+    "repositories":[
+        {
+            "type":"vcs",
+            "url":"https://github.com/VitasL/aliapi_json.git"
+        }
+    ]
 }
